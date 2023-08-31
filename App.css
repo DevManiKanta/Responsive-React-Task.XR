@@ -1,0 +1,36 @@
+
+@media (min-width: 768px) {
+  .Mydesign{
+    text-align: center;
+    background-color: rgb(125, 40, 204);
+  }
+}
+.head{
+  background-color: aqua;
+}
+
+.mydiv{
+  border: 2px solid;
+  padding: 20px; 
+  width:400px;
+  resize: horizontal;
+  overflow: auto; 
+}
+.main{
+  border: 2px solid;
+  padding: 20px; 
+  width:400px;
+  resize: both;
+  overflow: auto;   
+}
+.main-1{
+  border: 2px solid;
+  padding-top:20px; 
+  width:400px;
+  resize: horizontal;
+  overflow: auto; 
+  margin-left:10px;
+
+}
+
+
